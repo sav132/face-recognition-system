@@ -10,7 +10,7 @@ To run the file type the following in terminal -
 
 
 
-#  Make sure you place the face you want to recognise in image folder.Just one picture will be enough(Power of inception)
+#  Make sure you place the face you want to recognise in image folder , just one picture will be enough(Power of inception!!!)
 
 
 
