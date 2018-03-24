@@ -12,6 +12,7 @@ To run the file ,type the following in terminal -
 
 
  1.Create an  'image' folder .
+ 
  2.Make sure you place the faces you want to recognise in image folder , just one picture will be enough(Power of inception!!!).
 
 
