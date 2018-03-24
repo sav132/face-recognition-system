@@ -5,13 +5,14 @@ To install all requirements run -
       pip install -r requirements.txt 
       sudo apt-get install python python-dev festival festival-dev 
 
-To run the file type the following in terminal -
+To run the file ,type the following in terminal -
 
       python facenet.py
 
 
 
-#  Make sure you place the face you want to recognise in image folder , just one picture will be enough(Power of inception!!!)
+#  1.Create an  'image' folder .
+#  2.Make sure you place the face you want to recognise in image folder , just one picture will be enough(Power of inception!!!).
 
 
 
